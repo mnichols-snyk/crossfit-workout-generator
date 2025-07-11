@@ -116,6 +116,9 @@ dist
 # DynamoDB Local files
 .dynamodb/
 
+# Mac filesystem data
+.DS_Store
+
 # Firebase cache directory
 .firebase/
 
